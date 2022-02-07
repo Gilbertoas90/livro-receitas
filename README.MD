@@ -2,5 +2,6 @@
 
 Olá! Bem vindo ao livro de receitas.
 
-- Massa do pao de queijo
-- Colocar o Leite e Sal
+- Massa do pão de queijo.
+- Colocar o Leite
+- Adicionar o Sal
